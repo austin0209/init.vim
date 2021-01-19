@@ -1,0 +1,9 @@
+source $HOME\AppData\Local\nvim\settings.vim
+source $HOME\AppData\Local\nvim\plugins.vim
+source $HOME\AppData\Local\nvim\style.vim
+source $HOME\AppData\Local\nvim\mappings.vim
+source $HOME\AppData\Local\nvim\netrw.vim
+source $HOME\AppData\Local\nvim\commands.vim
+source $HOME\AppData\Local\nvim\coc.vim
+source $HOME\AppData\Local\nvim\omnisharp.vim
+source $HOME\AppData\Local\nvim\fzf.vim
