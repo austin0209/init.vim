@@ -1,9 +1,12 @@
-source $HOME\AppData\Local\nvim\settings.vim
-source $HOME\AppData\Local\nvim\plugins.vim
-source $HOME\AppData\Local\nvim\style.vim
-source $HOME\AppData\Local\nvim\mappings.vim
-source $HOME\AppData\Local\nvim\netrw.vim
-source $HOME\AppData\Local\nvim\commands.vim
-source $HOME\AppData\Local\nvim\coc.vim
-source $HOME\AppData\Local\nvim\omnisharp.vim
-source $HOME\AppData\Local\nvim\fzf.vim
+"Set $NVIM_PATH as an environment variable to point to the directory of init.vim
+
+source $NVIM_PATH/settings.vim
+source $NVIM_PATH/ale.vim
+source $NVIM_PATH/plugins.vim
+source $NVIM_PATH/style.vim
+source $NVIM_PATH/mappings.vim
+source $NVIM_PATH/netrw.vim
+source $NVIM_PATH/commands.vim
+source $NVIM_PATH/coc.vim
+source $NVIM_PATH/omnisharp.vim
+source $NVIM_PATH/fzf.vim

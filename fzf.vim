@@ -1,1 +1,2 @@
-nnoremap <silent> <C-p> :GFiles<CR>
+nnoremap <silent> <C-p> :FZF<CR>
+nnoremap <silent> <C-S-p> :GFiles<CR>
