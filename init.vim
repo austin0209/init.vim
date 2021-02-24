@@ -10,3 +10,4 @@ source $NVIM_PATH/commands.vim
 source $NVIM_PATH/coc.vim
 source $NVIM_PATH/omnisharp.vim
 source $NVIM_PATH/fzf.vim
+source $NVIM_PATH/instant.vim
