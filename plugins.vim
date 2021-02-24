@@ -17,5 +17,6 @@ Plug 'editorconfig/editorconfig-vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'mhinz/vim-startify'
 Plug 'jbyuki/instant.nvim'
+Plug 'ii14/exrc.vim'
 
 call plug#end()
